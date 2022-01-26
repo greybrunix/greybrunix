@@ -4,7 +4,7 @@
 I'm Bruno Gião and I'm currently studying Computer Science at UMinho!
 
 ### Current Projects
-Currently working on learning game design on the side \n
+Currently working on learning game design on the side < \br>
 Also working solving some Euler Problems on the side
 
 ![greybrunix's GitHub stats](https://github-readme-stats.vercel.app/api?username=greybrunix&count_private=true&show_icons=true&theme=synthwave)
