@@ -8,4 +8,4 @@ Currently working on learning game design on the side <br />
 Also working solving some Euler Problems on the side
 
 ![greybrunix's GitHub stats](https://github-readme-stats.vercel.app/api?username=greybrunix&count_private=true&show_icons=true&theme=synthwave)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greybrunix&layout=compact&langs_count=8&theme=synthwave)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greybrunix&layout=compact&langs_count=8&theme=synthwave)
