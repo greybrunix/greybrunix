@@ -21,7 +21,7 @@ The following are links to repositories containing resolutions/notes made by you
 
 [Functional Programming 1st YR - 21/22 - Exercises](https://github.com/greybrunix/pf2022)
 
-[Logic for Computer Science 2nd YR - 21/22 - Exercises](https://github.com/greybrunix/Logic-notes) (Not yet available)
+[Logic for Computer Science 2nd YR - 21/22 - Exercises](https://github.com/greybrunix/Logic-notes)
 
 [Communication Systems and Networks 2ndYR - 21/22 - Notes](https://github.com/greybrunix/networks_notes)
 
