@@ -22,5 +22,7 @@ Also working on solving some Euler Problems on the side.
 No
 
 # COOL STATS WOOOOO
+![greybrunix's GitHub stats](https://github-readme-stats.vercel.app/api?username=greybrunix&count_private=true&show_icons=true&theme=synthwave)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greybrunix&layout=compact&langs_count=8&theme=synthwave)
 
