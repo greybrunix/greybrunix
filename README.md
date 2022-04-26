@@ -1,14 +1,20 @@
 # Hi there 👋
 
-## Personal-Info
+## Personal Info
 
 I'm Bruno and I study Computer Science at UMinho. <br/>
-I like funcional programming and low level imperative programming.
+I like funcional programming and low level procedural programming with an hint of imperative programming.<br/>
+I use they/them pronouns.
 
 ## What I use
 
-1. VSC
-2. VIM ( I will share my .vimrc when I have time )
+* VSC when on windows
+* VIM when on arch ( I will share my .vimrc when I have time )
+
+### Languages
+
+* C
+* Haskell
 
 ## Academic Pursuits
 
