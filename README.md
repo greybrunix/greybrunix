@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there 👋:sparkles::blush::rainbow_flag::transgender_flag::sparkles:
 
 ## Personal Info
 
@@ -15,10 +15,17 @@ I use they/them pronouns.
 
 * C
 * Haskell
+* Python and Java ( I work with these languages but they bring me no joy )
 
 ## Academic Pursuits
 
-Currently focused on OS and OOP projects with a Formal Methods (Group Category) project to do after, and possibly considering Distributed Systems investigation
+Currently focused on OS with a Formal Methods (Group Category) project to do after, and possibly considering Distributed Systems investigation.
+
+Recently finished my OOP project, having made it public in the following [repo](https://github.com/greybrunix/Projeto_POO).
+
+Also have my [Functional Programming repo](https://github.com/greybrunix/pf2022) with a plethra of solved exercises public.
+
+
 
 <br/>
 
