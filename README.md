@@ -4,7 +4,7 @@
 
 I'm Bruno and I study Computer Science at UMinho. <br/>
 I like funcional programming and low level procedural programming with an hint of imperative programming.<br/>
-I use they/them pronouns.
+I use they/them pronouns 🏳️‍🌈:transgender_flag:.
 
 ## What I use
 
