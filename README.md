@@ -19,7 +19,7 @@ I use they/them pronouns 🏳️‍🌈:transgender_flag:.
 
 ## Academic Pursuits
 
-Currently focused on OS with a Formal Methods (Group Category) project to do after, and possibly considering Distributed Systems investigation with a side interest in formal methods investigation.
+Currently focused on OS with a Formal Methods (Group Category) project to do after, and possibly considering Distributed Systems investigation with a side interest in formal methods investigation and the nature of recursivity.
 
 Recently finished my OOP project, having made it public in the following [repo](https://github.com/greybrunix/Projeto_POO).
 
