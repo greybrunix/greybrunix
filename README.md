@@ -25,7 +25,7 @@ Recently finished my OOP project, having made it public in the following [repo](
 
 Also have my [Functional Programming repo](https://github.com/greybrunix/pf2022) with a plethra of solved exercises public.
 
-Have just finished my [OS project](https://github.com/greybrunix/Projeto_OS), sadly, despite having as many features as possible, all of which are aptly introduced, it was a failure, as a simple String manipulation mistake ruined the functionality of the project, but it might have been my favorite project to do up until now!
+Have just finished my [OS project](https://github.com/greybrunix/Projeto_SO), sadly, despite having as many features as possible, all of which are aptly introduced, it was a failure, as a simple String manipulation mistake ruined the functionality of the project, but it might have been my favorite project to do up until now!
 
 <br/>
 
