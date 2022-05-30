@@ -19,13 +19,13 @@ I use they/them pronouns 🏳️‍🌈:transgender_flag:.
 
 ## Academic Pursuits
 
-Currently focused on OS with a Formal Methods (Group Category) project to do after, and possibly considering Distributed Systems investigation with a side interest in formal methods investigation and the nature of recursivity.
+Currently focused on a Formal Methods project and possibly considering Distributed Systems investigation with a side interest in formal methods investigation and the nature of recursivity.
 
 Recently finished my OOP project, having made it public in the following [repo](https://github.com/greybrunix/Projeto_POO).
 
 Also have my [Functional Programming repo](https://github.com/greybrunix/pf2022) with a plethra of solved exercises public.
 
-
+Have just finished my [OS project](https://github.com/greybrunix/Projeto_OS), sadly, despite having as many features as possible, all of which are aptly introduced, it was a failure, as a simple String manipulation mistake ruined the functionality of the project, but it might have been my favorite project to do up until now!
 
 <br/>
 
