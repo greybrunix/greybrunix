@@ -27,6 +27,8 @@ Also have my [Functional Programming repo](https://github.com/greybrunix/pf2022)
 
 Have just finished my [OS project](https://github.com/greybrunix/Projeto_SO), sadly, despite having as many features as possible, all of which are aptly introduced, it was a failure, as a simple String manipulation mistake ruined the functionality of the project, but it might have been my favorite project to do up until now!
 
+I will also be soon updating my repo with exercises for the Imperative Programming class, however, this may be redundant since most of the exercises are either written on paper or completely untested somewhere in my arch VM
+
 <br/>
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=greybrunix&hide=prs,issues,contribs&count_private=true&show_icons=true&theme=gruvbox)![My Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greybrunix&layout=compact&langs_count=10&theme=gruvbox&hide=vim,Makefile,python)
