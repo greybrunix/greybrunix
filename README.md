@@ -17,10 +17,12 @@ I use they/them pronouns 🏳️‍🌈:transgender_flag:.
 * Haskell
 * Python and Java ( I work with these languages but they bring me no joy )
 
-## Academic Pursuits
+## Academic Pursuits and repos
 
+### Interests
 Currently focused on a Formal Methods project and possibly considering Distributed Systems investigation with a side interest in formal methods investigation and the nature of recursivity.
 
+### Repos
 Recently finished my OOP project, having made it public in the following [repo](https://github.com/greybrunix/Projeto_POO).
 
 Also have my [Functional Programming repo](https://github.com/greybrunix/pf2022) with a plethra of solved exercises public.
