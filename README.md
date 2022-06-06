@@ -9,13 +9,13 @@ I use they/them pronouns 🏳️‍🌈:transgender_flag:.
 ## What I use
 
 * VSC when on windows
-* VIM when on arch ( I will share my .vimrc when I have time )
+* NeoVim when on arch ( I just use this [vimrc with some changes](https://gist.github.com/jdah/4b4d98c2ced36eb07b017c4ae2c94bab) )
 
 ### Languages
 
 * C
 * Haskell
-* Python and Java ( I work with these languages but they bring me no joy )
+* Python and Java
 
 ## Academic Pursuits and repos
 
