@@ -20,7 +20,7 @@ I use they/them pronouns 🏳️‍🌈:transgender_flag:.
 ## Academic Pursuits and repos
 
 ### Interests
-Currently focused on a Formal Methods project and possibly considering Distributed Systems investigation or perhaps Formal Methods.
+Currently doing a Distributed Systems research project in the area of deduplication.
 
 ### Repos
 Recently finished my OOP project, having made it public in the following [repo](https://github.com/greybrunix/Projeto_POO).
