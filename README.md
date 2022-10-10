@@ -33,5 +33,5 @@ I will also be soon updating my repo with exercises for the Imperative Programmi
 
 <br/>
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=greybrunix&hide=prs,issues,contribs&count_private=true&show_icons=true&theme=tokyonight)![My Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greybrunix&layout=compact&langs_count=10&theme=tokyonight&hide=vim,cpp,java)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=greybrunix&hide=prs,issues,contribs&count_private=true&show_icons=true&theme=synthwave)![My Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greybrunix&layout=compact&langs_count=10&theme=synthwave&hide=vim,cpp,java)
 
