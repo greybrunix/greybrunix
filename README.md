@@ -1,4 +1,4 @@
-# Hi there 👋:sparkles::blush::rainbow_flag::transgender_flag::sparkles:
+# Hi there 👋:sparkles::blush::rainbow_flag::sparkles:
 
 ## Personal Info
 
