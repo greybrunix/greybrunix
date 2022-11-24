@@ -2,34 +2,32 @@
 
 ## Personal Info
 
-I'm Bruno and I study Computer Science at UMinho. <br/>
-I like functional programming and low level procedural programming.<br/>
+I'm Bruno and I study Computer Science at UMinho.
+
+I like functional programming and low level imperative programming.
+
 I use they/them pronouns 🏳️‍🌈:transgender_flag:.
 
 ## What I use
 
-* VSC when on windows
-* NeoVim when on arch ( I just use this [vimrc with some changes](https://gist.github.com/jdah/4b4d98c2ced36eb07b017c4ae2c94bab) )
+* Vi Improved
 
 ### Languages
 
-* C
-* Haskell
-* Python and Java
+* C (Preferencial for structural imperative programming)
+* Haskell (Preferencial for declarative functional programming)
+* Python
+* Scheme
+* x86 (both IA-32 and x86-64, mostly being used inline in C)
 
 ## Academic Pursuits and repos
 
 ### Interests
-I am currently interested in data storage in Distributed Systems, Formal Methods and Language Processing
+I am currently interested in data storage in Distributed Systems, Formal Methods and Language Processing.
 
 ### Repos
-Recently finished my OOP project, having made it public in the following [repo](https://github.com/greybrunix/Projeto_POO).
 
-Also have my [Functional Programming repo](https://github.com/greybrunix/pf2022) with a plethra of solved exercises public.
-
-Have just finished my [OS project](https://github.com/greybrunix/Projeto_SO), sadly, despite having as many features as possible, all of which are aptly introduced, it was a failure, as a simple String manipulation mistake ruined the functionality of the project, but it might have been my favorite project to do up until now!
-
-I will also be soon updating my repo with exercises for the Imperative Programming class, however, this may be redundant since most of the exercises are either written on paper or completely untested somewhere in my arch VM
+ * [Functional Programming repo](https://github.com/greybrunix/pf2022)
 
 <br/>
 
