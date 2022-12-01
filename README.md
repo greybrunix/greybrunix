@@ -25,6 +25,8 @@ I use they/them pronouns 🏳️‍🌈:transgender_flag:.
 ### Interests
 I am currently interested in data storage in Distributed Systems, Formal Methods and Language Processing.
 
+I am also currently working on teaching Computer Science as a side project to a friend, material can be found in the pinned repository.
+
 ### Repos
 
  * [Functional Programming repo](https://github.com/greybrunix/pf2022)
