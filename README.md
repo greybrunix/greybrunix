@@ -11,6 +11,8 @@ I use they/them pronouns 🏳️‍🌈:transgender_flag:.
 ## What I use
 
 * Vi Improved
+* Vi
+* ed
 
 ### Languages
 
