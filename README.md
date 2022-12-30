@@ -32,8 +32,3 @@ I am also currently working on teaching Computer Science as a side project to a 
 ### Repos
 
  * [Functional Programming repo](https://github.com/greybrunix/pf2022)
-
-<br/>
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=greybrunix&count_private=true&show_icons=true&theme=synthwave)![My Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greybrunix&layout=compact&theme=synthwave&hide=java)
-
