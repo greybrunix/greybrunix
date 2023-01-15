@@ -32,3 +32,4 @@ I am also currently working on teaching Computer Science as a side project to a 
 ### Repos
 
  * [Functional Programming repo](https://github.com/greybrunix/pf2022)
+ * [Compiler class projects](https://github.com/greybrunix/PLC)
