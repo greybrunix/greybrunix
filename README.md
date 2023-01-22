@@ -12,6 +12,7 @@ I use they/them pronouns 🏳️‍🌈:transgender_flag:.
 
 * Vi Improved, VI and EX
 * ed
+* Emacs
 
 ### Languages
 
