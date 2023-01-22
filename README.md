@@ -36,3 +36,4 @@ I am also currently working on teaching Computer Science as a side project to a 
 
 </br>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
