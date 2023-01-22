@@ -26,7 +26,8 @@ I use they/them pronouns 🏳️‍🌈:transgender_flag:.
 
 ### Interests
 I am currently interested in data storage in Distributed Systems, Formal Methods and Language Processing.
-Particularly interested in the correctness of programs and correct programming techniques.
+Particularly interested in the correctness of programs and correct programming techniques. </br>
+Also interested in how these topics can be applied to Quantum Computing.
 
 I am also currently working on teaching Computer Science as a side project to a friend, material can be found in the pinned repository.
 
