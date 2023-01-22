@@ -35,4 +35,4 @@ I am also currently working on teaching Computer Science as a side project to a 
  * [Compiler class projects](https://github.com/greybrunix/PLC) - 20/20
 
 </br>
-[![Greybrunix Stats](https://github-readme-stats.vercel.app/api?username=greybrunix&count_private=true)]
+
