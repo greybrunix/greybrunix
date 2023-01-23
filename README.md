@@ -35,8 +35,3 @@ I am also currently working on teaching Computer Science as a side project to a 
 
  * [Functional Programming repo](https://github.com/greybrunix/pf2022)
  * [Compiler class projects](https://github.com/greybrunix/PLC) - 20/20
-
-</br>
-
-[![Greybrunix's GitHub stats](https://github-readme-stats.vercel.app/api?username=greybrunix&theme=synthwave&count_private=true&show_icons=true)](https://github.com/greybrunix/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greybrunix&langs_count=10&&layout=compact&theme=synthwave)](https://github.com/greybrunix)
