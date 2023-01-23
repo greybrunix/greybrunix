@@ -10,6 +10,8 @@ I use they/them pronouns 🏳️‍🌈:transgender_flag:.
 
 ## What I use
 
+![Neofetch](image.png)
+
 * Vi Improved, VI and EX
 * ed
 * Emacs
