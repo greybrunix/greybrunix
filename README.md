@@ -12,7 +12,7 @@ low level work specific to UNIX systems.
 * VI and EX, ed and Emacs
 * dwm or i3
 * git
-* csh and dash
+* bash and dash
 * Check my ![dotfiles](https://github.com/greybrunix/dotfiles) out.
 
 ### Languages
