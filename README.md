@@ -1,4 +1,4 @@
-# Hi there 👋:sparkles::blush::rainbow_flag::sparkles:
+# Hi there 👋 ✨😊🏳️‍🌈✨
 
 ## Personal Info
 
@@ -17,12 +17,12 @@ low level work specific to UNIX systems.
 
 ### Languages
 
-* C (Preferencial for structural imperative programming/System level programming)
-* Haskell (Preferencial for declarative functional programming)
-* CHARITY (Close to replacing Haskell if not for the unfortunate lack of resources)
+* C
+* Haskell
+* CHARITY
 * Python
 * Scheme
-* x86 (both IA-32 and x86-64, mostly being used inline in C)
+* x86_64 assembly
 
 ## Academic Pursuits and repos
 
