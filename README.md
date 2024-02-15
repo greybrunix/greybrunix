@@ -6,8 +6,9 @@ I'm Bruno and I study Computer Science at UMinho.
 
 ## What I use
 
-* EX/VI family of editors and Emacs
-* dwm
+* EX/VI family of editors
+* emacs ([Witchemacs](https://github.com/snackon/Witchmacs))
+* [dwm](https://git.suckless.org/dwm/log.html)
 * git
 * bash and dash
 
