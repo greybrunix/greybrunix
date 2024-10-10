@@ -2,15 +2,16 @@
 
 ## Personal Info
 
-I'm Bruno and I study Computer Science at UMinho.
+I'm Bruno, I hold a BsC in Computer Science and am undergoing a MsC in Informatics at University of Minho.</br>
+I'm also, currently, a Research Grant holder at INESC-TEC/HASLab.
 
 ## What I use
 
 * EX/VI family of editors
-* emacs ([Witchemacs](https://github.com/snackon/Witchmacs))
-* [dwm](https://git.suckless.org/dwm/log.html)
+* emacs
+* i3
 * git
-* bash and dash
+* Arch Linux
 
 ### Languages
 
@@ -18,6 +19,7 @@ I'm Bruno and I study Computer Science at UMinho.
 * Haskell
 * Python
 * Java
+* bash and POSIX sh
 
 ## Academic Pursuits and repos
 
