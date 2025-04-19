@@ -2,7 +2,7 @@
 
 ## Personal Info
 
-I'm Bruno, I hold a BsC in Computer Science and am undergoing a MsC in Informatics at University of Minho.</br>
+I'm Bruno, I hold a BSc in Computer Science and am undergoing a MSc in Informatics at University of Minho.</br>
 I'm also, currently, an external researcher at INESC-TEC/HASLab.
 
 ## What I use
